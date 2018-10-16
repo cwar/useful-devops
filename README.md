@@ -6,6 +6,7 @@
 - [A better solution to ECS AutoScaling](https://garbe.io/blog/2017/04/12/a-better-solution-to-ecs-autoscaling/)
 - [AWS Tutorial: Auto Scaling Docker Containers in Amazon ECS
   ](https://www.codementor.io/jholub/amazon-ecs-auto-scale-docker-containers-6keydo24n)
+- [Awesome ECS](https://github.com/nathanpeck/awesome-ecs)
 
 ### RabbitMQ
 
