@@ -11,3 +11,7 @@
 ### RabbitMQ
 
 - [Peer Discovery](https://www.rabbitmq.com/blog/2018/02/12/peer-discovery-subsystem-in-rabbitmq-3-7/)
+
+### cmdline tools
+
+- [useful command lines tools](https://www.wezm.net/technical/2019/10/useful-command-line-tools)
